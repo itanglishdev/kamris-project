@@ -1,4 +1,4 @@
-
+// importing via props all the productDataList
 
 
 function ProductCard(props) {
